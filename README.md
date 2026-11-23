@@ -8,9 +8,8 @@ Repositório destinado à publicação e visualização de arquivos e páginas *
 
 As páginas publicadas neste repositório ficam acessíveis diretamente pelo navegador através do endereço:
 
-`https://<seu-usuario>.github.io/<nome-do-repositorio>/`
+`https://vmoizinho.github.io/acervo/`
 
-*(Substitua `<seu-usuario>` pelo seu nome de usuário no GitHub e `<nome-do-repositorio>` pelo nome deste repositório.)*
 
 ## 📂 Estrutura do projeto
 
