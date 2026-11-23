@@ -1,5 +1,7 @@
 # vmoizinho.github.io
 Acervo de conteúdo em desenvolvimento. 
+___________________________________________________________________________________________________________________________________________________________________________________________________________
+
 # HTML gerados por IA
 
 Repositório destinado à publicação e visualização de arquivos e páginas **HTML** gerados com o apoio de **Inteligências Artificiais**, hospedados gratuitamente em domínio público via **GitHub Pages**.
