@@ -10,7 +10,7 @@ Repositório destinado à publicação e visualização de arquivos e páginas *
 
 As páginas publicadas neste repositório ficam acessíveis diretamente pelo navegador através do endereço:
 
-`https://vmoizinho.github.io/acervo/`
+`https://vmoizinho.github.io/`
 
 
 ## 📂 Estrutura do projeto
